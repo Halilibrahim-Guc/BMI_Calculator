@@ -1,3 +1,3 @@
 # BMI_Calculator
 
-A simple BMI Calculater code writed in python for practice.
+A simple BMI Calculator code written in python for practice.
